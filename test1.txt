@@ -1,5 +1,6 @@
 Гусев Дмитрий
 
+
 #include<stdlib.h>//подключение латиницы
 #include<iostream>//подключение ввода и вывода
 using namespace::std;
